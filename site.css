@@ -1,0 +1,15 @@
+.tab-selected {
+	background-color: white !important;
+}
+.tab-not-selected:hover {
+	background-color: white !important;
+}
+
+.nav-selected {
+	font-weight: bold;
+	font-size: larger;
+}
+.nav-not-selected:hover {
+	font-weight: bold;
+	font-size: larger;
+}
